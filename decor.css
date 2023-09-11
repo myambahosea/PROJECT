@@ -1,0 +1,40 @@
+table
+{
+border-collapse:collapse;
+}
+
+BODY
+{
+background-color:cyan;
+}
+a
+{
+color:white;
+text-decoration:none;
+}
+
+#menu td
+{
+width:13%;
+text-align:center;
+background-color:#666699;
+color:white;
+font-size:20px;
+}
+#book td
+{
+width:10%;
+}
+
+.home{
+    background: blue;
+}
+.reg{
+    background: black;
+}
+.record{
+    background: magenta;
+}
+.edit{
+    background: red;
+}
